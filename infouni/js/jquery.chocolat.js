@@ -173,6 +173,7 @@
 				});
 			}
 		}
+		
 		function ChoColat(hauteur_image,largeur_image,resize){
 
 			if(resize){
